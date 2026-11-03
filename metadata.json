@@ -1,0 +1,6 @@
+{
+  "name": "Bhasha Studio",
+  "description": "Professional video editor with multilingual AI translation, Hindi voice dubbing, and automatic subtitles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
